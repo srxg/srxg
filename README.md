@@ -1,5 +1,5 @@
 ### Hey 👋 This is my new GitHub account!
-### If you're a recruiter looking for evidence of my University projects - rules regarding academic misconduct prevents me from making them public :(
+### In case you are a recruiter seeking my university projects, please note that due to academic integrity guidelines, I am unable to share them publicly.
 
 - 🔭 Right now, I'm studying for exams, working on my Dissertation and finishing Courseworks
 - 🌱 I’m currently trying to get into embedded systems development, considering contributing to the Mobile Linux sphere...it would be cool to contribute to the Monero project too :p
