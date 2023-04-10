@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋 This is my new GitHub account!
 ### If you're a recruiter looking for evidence of my University projects - rules regarding academic misconduct prevents me from making them public :(
 
 - 🔭 Right now, I'm studying for exams and working on my Dissertation and Courseworks
