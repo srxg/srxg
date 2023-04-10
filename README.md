@@ -1,8 +1,8 @@
 ### Hey 👋 This is my new GitHub account!
 ### If you're a recruiter looking for evidence of my University projects - rules regarding academic misconduct prevents me from making them public :(
 
-- 🔭 Right now, I'm studying for exams and working on my Dissertation and Courseworks
-- 🌱 I’m currently trying to get into embedded systems development, but also looking to contribute to the Monero project
+- 🔭 Right now, I'm studying for exams, working on my Dissertation and finishing Courseworks
+- 🌱 I’m currently trying to get into embedded systems development, considering contributing to the Mobile Linux sphere...it would be cool to contribute to the Monero project too :p
 
 <!--
 **srxg/srxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
