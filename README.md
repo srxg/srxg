@@ -1,10 +1,10 @@
 ### Hey 👋 This is my new GitHub account!
 ### In case you are a recruiter seeking my university projects, please note that due to academic integrity guidelines, I am unable to share them publicly.
 
-- 🔭 Right now, I'm studying for exams, working on my Dissertation and finishing Courseworks
-- 🌱 I’m currently trying to get into embedded systems development, considering contributing to the mobile linux sphere...it would be cool to contribute to the Monero project too :p
+- 🔭 Right now, I'm studying for exams and co-authoring a research paper for CiE
+- 🌱 I’m currently trying to get into embedded systems development, kernel stuff, os-dev stuff, wireless chip stuff looks cool too (firmware engineering).
 - 🤞  When University work settles down, I'm hoping to write a basic 32-bit kernel in C for x86, to get my foot in the door. I'll probably buy a Oneplus 7 or 8(T) and start contributing to Postmarket OS. I've got an FPGA laying around, maybe I'll use that to drive VGA, then HDMI. If I enjoy the FPGA stuff, I'll probably look into implementing a soft cpu.
-- 🤔 I also wanna make a cheap CO2 monitor
+- 🤔 Will start teaching myself electronics/electrical engineering soon, too.
 
 <!--
 **srxg/srxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
