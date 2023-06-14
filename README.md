@@ -1,10 +1,8 @@
-### Hey 👋 This is my new GitHub account!
 ### In case you are a recruiter seeking my university projects, please note that due to academic integrity guidelines, I am unable to share them publicly.
 
-- 🔭 Right now, I'm studying for exams and co-authoring a research paper for CiE
-- 🌱 I’m currently trying to get into embedded systems development, kernel stuff, os-dev stuff, wireless chip stuff looks cool too (firmware engineering).
-- 🤞  When University work settles down, I'm hoping to write 802.11n firmware for the RTL8710AF from scratch, a basic 32-bit kernel in C for x86, and a real-time operating system for ARM (to get my foot in the door). Might buy a Oneplus 7 or 8(T) and start contributing to Postmarket OS. I've got an FPGA laying around, maybe I'll use that to drive VGA, then HDMI. If I enjoy the FPGA stuff, I'll probably look into implementing a soft cpu.
-- 🤔 Will start teaching myself electronics/electrical engineering soon, too.
+- 🔭 Co-authoring a research paper for CiE (Computable Analysis)
+- 🌱 Mostly expanding my knowledge on embedded systems, kernel stuff, os-dev, low-level networking, etc.
+- 🚙 Would love to work on low-level stuff for autonomous vehicles :)
 
 <!--
 **srxg/srxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
