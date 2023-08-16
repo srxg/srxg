@@ -1,9 +1,3 @@
-### In case you are a recruiter seeking my university projects, please note that due to academic integrity guidelines, I am unable to share them publicly.
-
-- 🔭 Co-authoring a research paper for CiE (Computable Analysis)
-- 🌱 Mostly expanding my knowledge on embedded systems, kernel stuff, os-dev, low-level networking, etc.
-- 🚙 Would love to work on low-level stuff for autonomous vehicles :)
-
 <!--
 **srxg/srxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
